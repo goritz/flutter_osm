@@ -1,6 +1,6 @@
 # Flutter Open Street Map
 
-Example for implementing OpenStreetMap queries in a multiplatform enabled Flutter application
+Example for implementing OpenStreetMap Overpass queries in a multiplatform enabled Flutter application
 
 # Android APK Download
 ![](docs/qr_link.PNG?raw=true "APK Download for Release 1.0.1")
